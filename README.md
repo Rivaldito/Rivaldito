@@ -34,4 +34,4 @@ Neural networks, autograd, parallel programming and cloud-native infrastructure.
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rivaldito&show_icons=true&hide_border=true)
+![Stats](https://streak-stats.demolab.com?user=Rivaldito&hide_border=true)
