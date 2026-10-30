@@ -31,7 +31,3 @@ Neural networks, autograd, parallel programming and cloud-native infrastructure.
 
 - Blog: [rivaldito.com](https://rivaldito.com)
 - LinkedIn: [sebastianaraque](https://www.linkedin.com/in/sebastianaraque)
-
-## 📊 Stats
-
-![Stats](https://streak-stats.demolab.com?user=Rivaldito&hide_border=true)
